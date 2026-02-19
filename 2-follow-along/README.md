@@ -1,0 +1,1 @@
+- On windows, in the file explorer, create a .dbt folder at the root of the user profile. 
